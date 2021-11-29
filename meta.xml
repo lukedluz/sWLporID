@@ -1,0 +1,5 @@
+<meta>
+	<info author="Sc4r" name="sWLporID" version="1.0" type="Script"/>
+    <script src="config.lua" type="shared"/>
+    <script src="sc4r.lua" type="server"/>
+</meta>
